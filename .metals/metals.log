@@ -2282,3 +2282,5 @@ WARNING: Unmatched cancel notification for request id 2644
 2022.07.10 09:48:36 WARN  no build target for: /Users/chigozie/scalaworks/experi/HelloGetStarted.scala
 Jul 10, 2022 10:10:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2022.07.10 10:27:27 WARN  no build target for: /Users/chigozie/scalaworks/experi/HelloGetStarted.scala
+2022.07.10 10:27:54 WARN  no build target for: /Users/chigozie/scalaworks/experi/FactorialLoop.scala

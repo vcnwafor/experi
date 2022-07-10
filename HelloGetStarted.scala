@@ -14,7 +14,7 @@ object HelloGetStarted {
     //every scala program must have a main method from which execution starts.
     def main(args: Array[String]): Unit = {
         // the line below will print out an object to the default output, followed by a new line character
-        println("Welcom to Scala in a nutshell")
+        println("Welcome to Scala in a nutshell")
     }
 
     /* scala has 4 types of identifiers:
