@@ -84,4 +84,27 @@ object Hello{
     }
 
     
+
+    
+}
+
+object GCD {
+
+    def gcdList(list:List[Int]):Int = {
+
+        // Local function
+
+        def gcd(x:Int, y:Int):Int =
+
+        if (y == 0) x else gcd(y, x%y)
+
+        list match {
+
+            case Nil => 0
+
+            case h::t => gcd(h, gcdList(t))
+
+        }
+
+    }
 }
